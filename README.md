@@ -1,6 +1,9 @@
 # finance_articles_classifier
 
 <!--
+#field
+AI
+
 #groups
 NLP
 
